@@ -263,5 +263,56 @@
     "footerFacebook": null,
     "footerWhatsapp": null,
     "footerLinkedin": "http://localhost:8080/img/linkedin.7b3ab17a.svg"
+  },
+  {
+    "companyId": "id-empresa",
+    "token": "6jrXVB22UdJ4OBGlMjM7mb1EYlg3",
+    "template": "vibra",
+    "style": {
+      "primary": "#48d038",
+      "secondary": "#00a4d3"
+    },
+    "headerLogo": "esta-no-drive",
+    "headerLogoVariant": "esta-faltando",
+    "headerMenuItems": [
+      {
+        "title": "Vagas",
+        "hash": "/vagas"
+      },
+      {
+        "title": "Perfil",
+        "hash": "/meu-perfil"
+      },
+      {
+        "title": "Sobre",
+        "hash": "#sobre"
+      }
+    ],
+    "homeHeroBannerUrl": "esta-no-drive",
+    "homeSections": [
+      {
+        "id": "sub-hero",
+        "component": "sub-hero",
+        "title": "Venha fazer parte da equipe de pista da rede de Postos Petrobras*",
+        "subtitle": "Cadastre-se agora!",
+        "content": "Quer trabalhar em um posto da rede Petrobras?<br />Cadastre-se no banco de talentos para ter acesso às vagas de frentista ou de outras funções dentro de um posto de serviços. <br/> *A oferta de vagas é de responsabilidade exclusiva dos revendedores dos postos, sem qualquer vínculo empregatício com a Vibra Energia S.A ou a Petrobras – Petróleo Brasileiro S.A."
+      },
+      {
+        "id": "section-about",
+        "component": "section-about",
+        "title": "Sobre",
+        "content": "O “Talentos na Pista” é uma iniciativa da Vibra para promover a parceria entre a 99jobs, empresa de plataforma de recrutamento e seleção e o Capacidade Máxima, o programa de treinamento dos postos Petrobras, com o intuito de facilitar o processo tanto para quem se candidata, quanto para quem contrata na rede de postos Petrobras. <br /> Ao se cadastrar no banco de talentos, você estará inserido em uma ampla rede de oportunidades e poderá ingressar no mercado de trabalho, através de uma vaga num posto da rede Petrobras. Através da plataforma, seu perfil será disponibilizado para as vagas correspondentes e poderá ser selecionado para as entrevistas e processos seletivos de postos que buscam por profissionais qualificados em diversas áreas de atuação. <br /> Não perca a oportunidade de trabalhar na maior Rede de Postos do Brasil! Boa sorte!"
+      }
+    ],
+    "footer": {
+      "logo": "pegar no drive",
+      "text": null,
+      "social-network": {
+        "facebook": "faltando-link",
+        "instagram": "faltando-link",
+        "twitter": "faltando-link",
+        "linkedin": "faltando-link"
+      }
+    }
   }
 ]
