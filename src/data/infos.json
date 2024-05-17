@@ -1,318 +1,100 @@
 [
   {
-    "companyId": 428,
-    "token": "6jrXVB22UdJ4OBGlMjM7mb1EYlg3",
-    "template": "vibra",
-    "style": {
-      "primary": "#016f33",
-      "secondary": "#fefae0"
+    "settings": {
+      "companyId": 428,
+      "token": "6jrXVB22UdJ4OBGlMjM7mb1EYlg3",
+      "template": "vibra",
+      "fixedOpportunityId": 310914,
+      "gaId": "das82828ss"
     },
-    "headerLogo": "https://raiadrogasil.99jobs.com/img/cropped-logo-rd-color.072f1dcc.png",
-    "headerLogoVariant": "https://raiadrogasil.99jobs.com/img/cropped-logo-rd.6c6703e4.png",
-    "headerMenuItems": [
-      {
-        "title": "Vagas",
-        "hash": "/vagas"
-      },
-      {
-        "title": "Perfil",
-        "hash": "/meu-perfil"
-      },
-      {
-        "title": "Sobre",
-        "hash": "#sobre"
-      }
-    ],
-    "homeHeroTitle": "Você já pensou em fazer parte da maior empresa de varejo farmacêutico????",
-    "homeHeroBannerUrl": "https://raiadrogasil.99jobs.com/img/banner-trabalhe-conosco.5b6c20fc.jpg",
-    "homeSections": [
-      {
-        "id": "sub-hero",
-        "component": "sub-hero",
-        "title": "Venha fazer parte da equipe de pista da rede de Postos Petrobras*",
-        "subtitle": "Cadastre-se agora!",
-        "content": "Quer trabalhar em um posto da rede Petrobras?<br />Cadastre-se no banco de talentos para ter acesso às vagas de frentista ou de outras funções dentro de um posto de serviços. <br/> *A oferta de vagas é de responsabilidade exclusiva dos revendedores dos postos, sem qualquer vínculo empregatício com a Vibra Energia S.A ou a Petrobras – Petróleo Brasileiro S.A."
-      },
-      {
-        "id": "section-videos",
-        "component": "section-videos",
-        "title": "Não perca a oportunidade de trabalhar na maior Rede de Postos do Brasil!",
-        "content": [
-          {
-            "src": "https://www.youtube.com/embed/-a3f5DpqI5s",
-            "thumb": "capa-video-1.jpg",
-            "isVideo": true,
-            "text": "Conheça aqui o papel de um frentista dos Postos Petrobras"
-          },
-          {
-            "src": "https://www.youtube.com/embed/GRfalsLUjjw",
-            "thumb": "capa-video-2.jpg",
-            "isVideo": true,
-            "text": "Conheça aqui o papel de um gerente dos Postos Petrobras"
-          }
-        ]
-      },
-      {
-        "id": "section-about",
-        "component": "section-about",
-        "title": "Sobre",
-        "content": "O “Talentos na Pista” é uma iniciativa da Vibra para promover a parceria entre a 99jobs, empresa de plataforma de recrutamento e seleção e o Capacidade Máxima, o programa de treinamento dos postos Petrobras, com o intuito de facilitar o processo tanto para quem se candidata, quanto para quem contrata na rede de postos Petrobras. <br /> Ao se cadastrar no banco de talentos, você estará inserido em uma ampla rede de oportunidades e poderá ingressar no mercado de trabalho, através de uma vaga num posto da rede Petrobras. Através da plataforma, seu perfil será disponibilizado para as vagas correspondentes e poderá ser selecionado para as entrevistas e processos seletivos de postos que buscam por profissionais qualificados em diversas áreas de atuação. <br /> Não perca a oportunidade de trabalhar na maior Rede de Postos do Brasil! Boa sorte!"
-      }
-    ],
-    "footerLogo": "https://raiadrogasil.99jobs.com/img/cropped-logo-rd.6c6703e4.png",
-    "footerInstagram": null,
-    "footerX": null,
-    "footerFacebook": null,
-    "footerWhatsapp": null,
-    "footerLinkedin": "http://localhost:8080/img/linkedin.7b3ab17a.svg"
-  },
-  {
-    "companyId": 6578,
-    "token": "6jrXVB22UdJ4OBGlMjM7mb1EYlg3",
-    "template": "raia",
-    "style": {
-      "primary": "#0083ca"
-    },
-    "headerLogo": "http://localhost:8080/img/cropped-logo-rd-color.072f1dcc.png",
-    "headerLogoVariant": "https://raiadrogasil.99jobs.com/img/cropped-logo-rd.6c6703e4.png",
-    "headerMenuItems": [
-      {
-        "title": "Quem Somos",
-        "hash": "#section-1"
-      },
-      {
-        "title": "Marcas",
-        "hash": "#section-2"
-      },
-      {
-        "title": "Áreas",
-        "hash": "#section-3"
-      },
-      {
-        "title": "Prêmios",
-        "hash": "#section-5"
-      },
-      {
-        "title": "Vagas",
-        "hash": "/vagas"
-      }
-    ],
-    "homeHeroTitle": "Você já pensou em fazer parte da maior empresa de varejo farmacêutico????",
-    "homeHeroBannerUrl": "https://raiadrogasil.99jobs.com/img/banner-trabalhe-conosco.5b6c20fc.jpg",
-    "homeSections": [
-      {
-        "id": "section-1",
-        "component": "title-and-text-content",
-        "title": "QUEM SOMOSSS",
-        "content": "A RD – Gente, Saúde e Bem-estar é uma empresa líder no mercado brasileiro de farmácias, com <strong>mais 2.500 lojas em todos os estados brasileiros</strong>. A companhia foi criada em novembro de 2011, a partir da fusão entre Raia S.A. e Drogasil S.A., e com faturamento de R$ 25,6 bilhões em 2021. Somos a maior rede de farmácias do Brasil em receita e número de lojas.<br /><br /> Cinco anos após a fusão, estamos no início de uma nova etapa na história da empresa, que seguirá pautando a sua atuação em cinco valores essenciais: ética, eficiência, inovação, relações de confiança e visão de longo prazo. Além disso, selamos nosso compromisso com a Sustentabilidade baseado em três pilares: cuidar da saúde das pessoas, cuidar da saúde do planeta e cuidar da saúde do negócio.<br /><br /> Hoje, combinamos um portfólio integrado de ativos focados na saúde e no bem-estar: RD Farmácias (Droga Raia e Drogasil), RD Serviços (4Bio Medicamentos Especiais, Univers, plataforma de gestão de saúde, e Stix) e RD Marcas (Needs, Vegan by Needs, B-Well, Caretech e Nutrigood)."
-      },
-      {
-        "id": "section-2",
-        "component": "box-image-text",
-        "title": "NOSSAS MARCASsss",
-        "content": [
-          {
-            "imgUrl": "https://raiadrogasil.99jobs.com/img/marca-drogasil.d85a4f6c.jpeg",
-            "imgTitleUrl": "https://raiadrogasil.99jobs.com/img/logo-drogasil.8ae96dd6.jpeg",
-            "content": "A Drogasil começou sua história em março de 1935 após a fusão das farmácias paulistas Drogaria Bráulio e Drogaria Brasil. Dois anos depois, adotou o conceito de rede ao se juntar a outras drogaria. Em 2011, houve a fusão com outra grande empresa do setor, a Droga Raia, nascendo assim a RD – Gente, Saúde e Bem-Estar. Hoje o grupo conta com 8 centros de distribuição e mais de 2100 lojas espalhadas em 23 estados pelo Brasil, sendo assim, a maior rede de farmácias do Brasil."
-          },
-          {
-            "imgUrl": "https://raiadrogasil.99jobs.com/img/marca-raia.dbdfb1d4.jpeg",
-            "imgTitleUrl": "https://raiadrogasil.99jobs.com/img/logo-raia.b89d5013.jpeg",
-            "content": "A Pharmacia Raia foi fundada em 3 de agosto de 1905, na cidade de Araraquara, no interior de São Paulo. Desde a inauguração da segunda loja em 1931, a empresa foi crescendo e alcançando outras cidades e estados do Brasil chegando ao marco de 80 lojas em 1992. Os anos 2000 foram marcados pelo desenvolvimento, pela modernização e pelo centenário da Droga Raia Em 2011, se fundiu com a Drogasil, outra grande empresa do setor, dando início à RD – Gente, Saúde e Bem-Estar."
-          },
-          {
-            "imgUrl": "https://s2.glbimg.com/TlwiKVddXgQNNivjj_vFv5ZufnQ=/620x430/top/e.glbimg.com/og/ed/f/original/2016/03/15/img_2709.jpg",
-            "imgTitleUrl": "https://clubedevagas.com/wp-content/uploads/2023/02/image-34.png",
-            "content": "A 99jobs existe pra mudar o mundo ajudando as pessoas a fazer aquilo que amam. Somos uma HRTech feita por e para pessoas inquietas com a mesmice do mercado de trabalho, que idealiza e desenvolve soluções criativas para experiências em processos de Recrutamento e Seleção, sempre olhando para três pilares: tecnologia, criatividade e inclusão."
-          }
-        ]
-      },
-      {
-        "id": "section-3",
-        "component": "collections",
-        "title": "OPORTUNIDADESS",
-        "content": [
-          {
-            "imgUrl": "https://raiadrogasil.99jobs.com/img/areas-corporativas.427cbc14.jpeg",
-            "content": "Corporativasss"
-          },
-          {
-            "imgUrl": "https://raiadrogasil.99jobs.com/img/areas-cd.79e98f3b.jpeg",
-            "content": "Centros de Distribuiçãooo"
-          },
-          {
-            "imgUrl": "https://raiadrogasil.99jobs.com/img/areas-drogasil.efe20690.jpeg",
-            "content": "Drogasillll"
-          },
-          {
-            "imgUrl": "https://raiadrogasil.99jobs.com/img/areas-raia.80ccf09d.jpeg",
-            "content": "Droga Raiaaaa"
-          },
-          {
-            "imgUrl": "https://raiadrogasil.99jobs.com/img/areas-pcd.c180beab.jpeg",
-            "content": "Pessoas com Deficiênciaaaa"
-          }
-        ]
-      },
-      {
-        "id": "section-4",
-        "component": "icons-grid",
-        "title": "BENEFÍCIOSS",
-        "content": [
-          {
-            "name": "Academia / Práticas Esportivas",
-            "icon": "heartbeat"
-          },
-          {
-            "name": "Assist. Médica",
-            "icon": "user-md"
-          },
-          {
-            "name": "Assist. Odontológica",
-            "icon": "plus-square"
-          },
-          {
-            "name": "Seguro de Vida",
-            "icon": "heart"
-          },
-          {
-            "name": "Vale-Transporte",
-            "icon": "bus"
-          }
-        ]
-      },
-      {
-        "id": "section-5",
-        "component": "title-image",
-        "title": "PRÊMIOS",
-        "content": "https://raiadrogasil.99jobs.com/img/img-conquistas.1879bfbf.jpg"
-      },
-      {
-        "id": "section-6",
-        "component": "testimonials",
-        "title": "DDEPOIMENTOSSSS",
-        "content": [
-          {
-            "avatarUrl": "https://raiadrogasil.99jobs.com/img/Tamires.efbce87c.png",
-            "name": "<strong>Tamires Aparecida Belisário de Souza</strong>,<br /> Atendente - São Paulo/SPPPP",
-            "text": "\"Minha paixão pela empresa começou antes mesmo de eu trabalhar lá. E depois que entrei na Drogasil, como já era de se esperar, me apaixonei ainda mais a cada dia, tanto pelo acolhimento comigo quanto com a atenção com os clientes. A RD é uma empresa que dá oportunidades e que acredita que todos somos capazes, basta querer.\""
-          },
-          {
-            "avatarUrl": "https://raiadrogasil.99jobs.com/img/Kaio.b01325b0.png",
-            "name": "<strong>Kaio Costa Couto</strong>,<br /> Gerente de Loja - Vila Velha/ES",
-            "text": "\"Fazer parte da RD é uma satisfação imensa. A sensação de pertencimento é real, a cultura e os valores não são só uma utopia. Posso afirmar que a RD foi um divisor de águas na minha vida profissional.\""
-          },
-          {
-            "avatarUrl": "https://raiadrogasil.99jobs.com/img/Paula.65be1825.png",
-            "name": "<strong>Paula Amaral de Almeida</strong>,<br /> Gerente Farmacêutica - Divinópolis/MG",
-            "text": "\"Compartilhar os valores de uma empresa cujo propósito é inspirador, já seria razão suficiente para ser feliz. Na RD somos desafiados a sermos melhores a cada dia, vencer obstáculos, buscar sonhos e ter coragem para enfrentar qualquer batalha. Não posso deixar de dizer a alegria e honra que tenho em pertencer a esse time.\""
-          },
-          {
-            "avatarUrl": "https://raiadrogasil.99jobs.com/img/Toshihiro.62662531.png",
-            "name": "<strong>Toshihiro Ura</strong>,<br /> Farmacêutico - Dourados/MS",
-            "text": "\"Falar de 7 anos em poucas frases é quase impossível, mas se tem uma palavra que resume bem é gratidão. Pois em toda a minha trajetória na RD sempre tive o suporte que precisei, pude aprender bastante e treinar muitos colegas. Trocas essas que tornaram o ambiente corrido do dia a dia de uma loja cheio de harmonia.\""
-          },
-          {
-            "avatarUrl": "https://raiadrogasil.99jobs.com/img/Andrea.bc679d30.png",
-            "name": "<strong>Andrea de Lima Gonçalves</strong>,<br /> Supervisora de Loja - Salvador/BA",
-            "text": "\"Tenho o maior orgulho de fazer parte da família RD, uma empresa que me proporcionou a oportunidade de crescimento e aprendizado. Para mim, é muito gratificante poder fazer parte dessa equipe que me recebeu muito bem e que, de fato, cuida de perto das pessoas.\""
-          },
-          {
-            "avatarUrl": "https://raiadrogasil.99jobs.com/img/Paula-Dirce.41cd98a2.png",
-            "name": "<strong>Paula Dirce Bezerra da Silva</strong>,<br /> Atendente - São Paulo/SP",
-            "text": "\"Ingressei minha carreira profissional na RD, e essa experiência tem me proporcionado aprendizagens todos os dias, um voto de confiança que foi estabelecido desde o primeiro momento em que me tornei parte dessa história. A Drogasil teve um impacto enorme em minha vida, além do conhecimento que adquiri, tenho um plano de carreira consistente que me permite ter uma visão de futuro.\""
-          }
-        ]
-      },
-      {
-        "id": "section-9",
-        "component": "faq",
-        "title": "FAQQQ",
-        "content": [
-          {
-            "title": "Nãoooo achei nenhuma vaga com meu perfil. Posso cadastrar meu currículo mesmo assim?",
-            "content": "<p style='font-size: 14px;'>Sim, você pode fazer isso agora! <a href='/deixe-seu-perfil'>Clique aqui!</a> para cadastrar seu currículo em nosso banco de talentos. Ele ficará disponível para os nossos recrutadores visualizarem. Aproveite para seguir a nossa página também!</p>"
-          },
-          {
-            "title": "Como me atualizo quanto às vagas abertas na RaiaDrogasil?",
-            "content": "<p style='font-size: 14px;'>Você pode acompanhar todas as nossas atualizações de vaga aqui mesmo em nossa página.</p>"
-          },
-          {
-            "title": "Como recebo retorno sobre o processo seletivo que me candidatei?",
-            "content": "<p style='font-size: 14px;'>Todos os retornos de processos seletivos, sejam de candidaturas ou de participação, são enviados para o seu e-mail cadastrado na nossa Página de Carreiras. Lembre-se sempre de acompanhar sua Caixa de Entrada e também a Caixa de Spam.</p>"
-          },
-          {
-            "title": "A RaiaDrogasil promove a diversidade? Existem vagas para pessoas com deficiência?",
-            "content": "<p style='font-size: 14px;'>Aqui, você é bem vindo(a) em todas as vagas. Na RaiaDrogasil, acreditamos e apoiamos a inclusão e a diversidade, em todas as suas formas de expressão. Venha fazer parte do nosso time!</p>"
-          },
-          {
-            "title": "Quais são as etapas do processo?",
-            "content": "<p style='font-size: 14px;'>O processo pode variar de área para área. Mas, em geral, depois dos testes online, podem ocorrer algumas entrevistas com a área de Pessoas e com o time responsável.</p>"
-          },
-          {
-            "title": "Como vou ficar sabendo se passei para a próxima etapa?",
-            "content": "<p style='font-size: 14px;'>Toda a comunicação do processo seletivo acontece via e-mail, telefone ou WhatsApp. Por isso, garanta que seus dados estejam atualizados e avise a área de Pessoas caso haja alguma mudança no seu contato.</p>"
-          }
-        ]
-      }
-    ],
-    "footerLogo": "https://raiadrogasil.99jobs.com/img/cropped-logo-rd.6c6703e4.png",
-    "footerInstagram": null,
-    "footerX": null,
-    "footerFacebook": null,
-    "footerWhatsapp": null,
-    "footerLinkedin": "http://localhost:8080/img/linkedin.7b3ab17a.svg"
-  },
-  {
-    "companyId": "id-empresa",
-    "token": "6jrXVB22UdJ4OBGlMjM7mb1EYlg3",
-    "template": "vibra",
     "style": {
       "primary": "#48d038",
       "secondary": "#00a4d3"
     },
-    "headerLogo": "esta-no-drive",
-    "headerLogoVariant": "esta-faltando",
-    "headerMenuItems": [
-      {
-        "title": "Vagas",
-        "hash": "/vagas"
-      },
-      {
-        "title": "Perfil",
-        "hash": "/meu-perfil"
-      },
-      {
-        "title": "Sobre",
-        "hash": "#sobre"
-      }
-    ],
-    "homeHeroBannerUrl": "esta-no-drive",
-    "homeSections": [
-      {
-        "id": "sub-hero",
-        "component": "sub-hero",
-        "title": "Venha fazer parte da equipe de pista da rede de Postos Petrobras*",
-        "subtitle": "Cadastre-se agora!",
-        "content": "Quer trabalhar em um posto da rede Petrobras?<br />Cadastre-se no banco de talentos para ter acesso às vagas de frentista ou de outras funções dentro de um posto de serviços. <br/> *A oferta de vagas é de responsabilidade exclusiva dos revendedores dos postos, sem qualquer vínculo empregatício com a Vibra Energia S.A ou a Petrobras – Petróleo Brasileiro S.A."
-      },
-      {
-        "id": "section-about",
-        "component": "section-about",
-        "title": "Sobre",
-        "content": "O “Talentos na Pista” é uma iniciativa da Vibra para promover a parceria entre a 99jobs, empresa de plataforma de recrutamento e seleção e o Capacidade Máxima, o programa de treinamento dos postos Petrobras, com o intuito de facilitar o processo tanto para quem se candidata, quanto para quem contrata na rede de postos Petrobras. <br /> Ao se cadastrar no banco de talentos, você estará inserido em uma ampla rede de oportunidades e poderá ingressar no mercado de trabalho, através de uma vaga num posto da rede Petrobras. Através da plataforma, seu perfil será disponibilizado para as vagas correspondentes e poderá ser selecionado para as entrevistas e processos seletivos de postos que buscam por profissionais qualificados em diversas áreas de atuação. <br /> Não perca a oportunidade de trabalhar na maior Rede de Postos do Brasil! Boa sorte!"
-      }
-    ],
+    "head": {
+      "title": "BR Mania",
+      "description": "Descrição legal do site",
+      "ogImage": "/brmania/images/hero-header.png",
+      "favicon": "https://talentosnapista.99jobs.com/img/icons/apple-icon-57x57.png"
+    },
+    "header": {
+      "logo": "/brmania/images/logo.png",
+      "logoVariant": "esta-faltando",
+      "menuItems": [
+        {
+          "title": "Vagas",
+          "hash": "/vagas"
+        },
+        {
+          "title": "Perfil",
+          "hash": "/meu-perfil"
+        },
+        {
+          "title": "Sobre",
+          "hash": "/#sobre"
+        }
+      ]
+    },
+    "home": {
+      "homeHeroBannerUrl": "/brmania/images/hero-header.png",
+      "sections": [
+        {
+          "id": "sub-hero",
+          "component": "sub-hero",
+          "backgroundUrl": "/brmania/images/background-sub-hero.png",
+          "sections": [
+            {
+              "id": "sub-hero-left",
+              "component": "sub-hero-left",
+              "content": "<h2>Torne todo dia e toda hora um momento para crescer</h2> <br /> <a href='#'>deixe seu curriculo<a/> <br /> <p><strong>importante:</strong> a oferta de vagas é de responsabilidade das lojas franqueadas. sem vículo empregatício com a marca-mãe</p>"
+            },
+            {
+              "id": "sub-hero-right",
+              "component": "sub-hero-right",
+              "content": "<figure class=image data-ckbox-resource-id=q9KYYmOVBFpO><picture><source sizes='(max-width: 591px) 100vw, 591px'srcset='https://ckbox.cloud/28cf342a15a15071ebdc/assets/q9KYYmOVBFpO/images/80.webp 80w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/q9KYYmOVBFpO/images/160.webp 160w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/q9KYYmOVBFpO/images/240.webp 240w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/q9KYYmOVBFpO/images/320.webp 320w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/q9KYYmOVBFpO/images/400.webp 400w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/q9KYYmOVBFpO/images/480.webp 480w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/q9KYYmOVBFpO/images/560.webp 560w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/q9KYYmOVBFpO/images/591.webp 591w'type=image/webp><img height=104 src=https://ckbox.cloud/28cf342a15a15071ebdc/assets/q9KYYmOVBFpO/images/591.png width=591></picture></figure><figure class=image data-ckbox-resource-id=QfPMR7G2f5fJ><picture><source sizes='(max-width: 590px) 100vw, 590px'srcset='https://ckbox.cloud/28cf342a15a15071ebdc/assets/QfPMR7G2f5fJ/images/80.webp 80w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/QfPMR7G2f5fJ/images/160.webp 160w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/QfPMR7G2f5fJ/images/240.webp 240w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/QfPMR7G2f5fJ/images/320.webp 320w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/QfPMR7G2f5fJ/images/400.webp 400w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/QfPMR7G2f5fJ/images/480.webp 480w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/QfPMR7G2f5fJ/images/560.webp 560w,https://ckbox.cloud/28cf342a15a15071ebdc/assets/QfPMR7G2f5fJ/images/590.webp 590w'type=image/webp><img height=67 src=https://ckbox.cloud/28cf342a15a15071ebdc/assets/QfPMR7G2f5fJ/images/590.png width=590></picture></figure><p><strong>Lorem Ipsum</strong><span style='background-color:#fff;color:#000;font-family:'Open Sans',Arial,sans-serif;font-size:14px'> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span>"
+            }
+          ]
+        },
+        {
+          "id": "section-about",
+          "component": "section-about",
+          "title": {
+            "backgroundUrl": "/brmania/images/background-title-about.png",
+            "text": "Um ponto de encontro para talentos e oportunidades é muito conveniente"
+          },
+          "content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>"
+        }
+      ]
+    },
+    "opportunities": {
+      "bannerUrl": "/brmania/images/hero-opportunities.png",
+      "bannerText": "Texto de teste para o banner de oportunidades"
+    },
+    "profile": {
+      "bannerUrl": "/brmania/images/hero-opportunities.png",
+      "bannerText": "Texto de teste para o banner de perfil"
+    },
     "footer": {
       "logo": "pegar no drive",
       "text": null,
-      "social-network": {
-        "facebook": "faltando-link",
-        "instagram": "faltando-link",
-        "twitter": "faltando-link",
-        "linkedin": "faltando-link"
-      }
+      "socialNetwork": [
+        {
+          "urlImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAYAAAA6oTAqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAF3SURBVHgB7ZnhbcIwEIUfiAHYAG9QOkHpBh2h3aQdgQmgG3SDjNB2gnQD0gnAh5MfSICD7TNn6z7phEQgzqc4fnY8gWNu69XWA8ri19aXrb/hC2OrtbUvtFpby0FmU8AF+6ohkYmtHVw3Kx0zRR0iR6aoCJWRSlUyM+Sngwu57sJxyozgQSlHDtDw/w4X0D6awDYWOe7MGk6kAzOcMnTxb3BzpyxwDgBZRQgumS0yixAcMtS9PnAHOGRO1hc54RgAPkf+zoCB1JniCzwKxR1DuwsOGR/fDG0eZe4xN2NbP+msWSoqIxVdnMEl/DPC8P2vQUSghozpLXiYo7CcucYKEagMI0+IQJIMPS9LRCBJZoVIqpIJzRnqEs2FY74c2eB8jkR1MYL2Z8asQW495zUoowzSY3RuJhWVkYrKSEVlpKIyUqlOhn2vMRP/JLNG+fygvyk0nU/5Zt5Hm7Ct4U2RoRPPeqNHWy9IsKYYAfWEVDsBdO3b/hMHDTpCdEFPBK8AAAAASUVORK5CYII=",
+          "url": "#"
+        },
+        {
+          "urlImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAYAAAA6oTAqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMZSURBVHgB7VmBddMwEP3pY4BsgJiAdgLMBIUJ6kxAmcDOBIUJIBMAE9gb0E5gbRAzAeiepJdLiOOzc3KTvP73fqXUsq2vk+5O8gwbZI63jnOcD1rHJ8fv/J+F498z5gOJmDkaxwbnj8WV+/MBl4F3JOac1sghmCtcEF7EnCrGirGOnx3fwHtELd44LhxrjEQJuT9fO95jGpCXbSDvW/UKcljH96GMMPCZwxzHe0UbWIffPx0fHX84XkOIEjLlht1D9QryURtCskbO3jWHzEKVVEzJHk6jtE4khLNg78y0xDTsoWYiIZE8O6n6xEi8Wc3qBabNGB5Y/WtfY4mYX6EkETnSoHb8CL/oOQz8FIttDkIixoZS7FFGYAkvZLnnWnxvi21P+h8krnmN8aAO1KEkyxrsH5S70OZuzzXxtB4SZ4aA4gNlCPWeawbe6fCO51CYwilyM1qolJbUHdctfMdpjbRQhLZlSAhPdzJ4C5jwewUv0sKvERJTQRElDvvv16xjffGIz+9vB9oZ1u4L5AG7wZFxRgryRHHaUHzIO9oZeGtE4SWUoCnmMZQG/Zk1bxM93tFIIUZ6QHLL6k9QgJYYy+rSuMDbqXg1LTGG1S1ksB33j4bmNMtCGV1uH1as/hYKSCGGhCx72lpszocNlPI+TTGfsJkuFDu6BNXw2++IAkrQzABoQdN+nTpK1inhRz+DH/nogmt2DwnJoQTtdIY6TQGR8i6L7em0CxJSQhEpEk0S9Bs+C9hdC3GDR9dLKCPVFoA6fR/YYuPdDBJiiJixge3YM7V251mdkEyzm1BaKO8/hIhpUu+gSMRkoSQhK0wLi433E+V8JQ7vJ+gMII6I9HRRixnrZwWFc7O4mAlkneh2U4OfIeTYFtaJEsNHycDHjxTWqPa8q5HcN8SbxehOC9LCjxZZ7Bo6Lrdlz44w8OIMhCgxbOQKTANa8EPOtasxYogN/IFFBr1ASGuTrFxg3OeSamwGYKB0cKeJlw+0p4qLE/Mc+VYK/KFv7zFFOSazPQUsYiVHmmg+FUsSMWPKDHygOjcL1YH4B+utG+88O2D9AAAAAElFTkSuQmCC",
+          "url": "#"
+        },
+        {
+          "urlImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAYAAAA6oTAqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJESURBVHgB7Zn/UcIwFMe/eP4vGxgn0BHiBLqB3UA3oCPgBMUJ0AkcATZomACcAPMuqfZOoS8/mhSun7vvwQFt8k0e7yXpBIapVqF1i9Nio7XQUs0HQqvW2p+otlp3jZnqBDrcpZqMXLRdnTBC647MTHEeTC9wRoxmhspoZqhcIg87rTetNUz1poxKJeIJJs0eukaho5RQwUlZ4OY4Xg6Kf/pU2WuWR+4ruWY+bSdCjRTgIbRWWiV+jYuOe0uumcLedBVgpEQYVSwzTZz6GqoRhmC0ITnZjP5469b7e613uPEBfwRMmLPomplDNyrBnxkJf5bcNjgzow58XmrdwKTYLnZIAMfM5sh3CiY5kKlXHDa+RQJiFU2l9WIlYBIGiRLGldYX/GFvUfpYASgr1yQRDCfMrpEX9k6YY0YgH1M4hBnHTM4zAqe2OWZoZCTyEN0M8Yg8PMCRrhUAiepE6lMcAbf1n+TODBmZIS0SHnBmplHKcHPpl9PMNFRIk6oL33ZcR6BGv4YE/LbyzjPTNEYbtBf0wzMCBstnFBrFDrsioC8y1ExMUwKmBHibiXEISBsv2vMo+CNgdrTBtcx3ZmgUywgdkAibEe8wo9/OEW+t9oxwE2wzpf2RQNzljIQJqz0SmiFRGi4QB9mDCa8wo7iuYJY0Am4GZj2a+DEzgX9FVy21T3DoAKM51RdIt9q+DznQEMi7pf7D+ORsqIxmhspoZqDsyAznkcTQUbAPxEKfVeZWDVvvJi13tEzJeRTrA+2lFvYV32j5kAuSerGYAAAAAElFTkSuQmCC",
+          "url": "#"
+        },
+        {
+          "urlImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAYAAAA6oTAqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHCSURBVHgB7ZrhUcJAEIUf6H/owLMDrQDsgA4IFUgHYgVaglagVhBKoAPOCrQD3Z1jmPwIu5dkSDbhvpk3A9kNyeOSveXCCAFHeiHdoX940jvpjd840p7013NlY4TRcOg/CzYzxTCYjDEgkhmrxJrZkh5It6R70gqhJJojg1zyNif2c7BV0nNtZLxghmPPMIRm5kuJf8IQmpnfiLiW0xqaGW1CdTA06WpmlpBPdglDxIxMjvLejY1sYIjriBxuRNkQt9k7BINsZA5jxJhhHOkJxhlUOxM7MufCI8xlu8I2R5qh5mWcQW4TJDYl+TdCfn7I2UecrDvx+bXbmXPAhYSb1a2S5xHMcG7UxNy2GU9ao1rXwJdgVA/Ythn+6VCn/XmFPpK9qmZa09u5mSniezu1Q+/KzCNCRfs5iF8vlH08lEu0CzPcSfA94Arb+PUH9PU7LwW7MJMJsTVkTI3MHPK3P4PMtxRs28y0YVzEmplGpBVNqyQzVklmrJLMWCWZscrFrZs5ITYp2caPCkcV8pse70iMmT2qkaM+rsbxjqR7xirJjFXYjMcw8FcIZriUztFfPGlVnA8cwiO/vv1ly+OwDv0PTHSvsJDm3TIAAAAASUVORK5CYII=",
+          "url": "#"
+        }
+      ]
     }
   }
 ]

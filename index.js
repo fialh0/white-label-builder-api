@@ -10,7 +10,7 @@ server.get("/", (req, res) => {
 server.get("/:id", (req, res) => {
   const id = req.params.id;
 
-  return res.json(dataWL.filter((info) => info.companyId == id)[0]);
+  return res.json(dataWL.filter((info) => info.settings.companyId == id)[0]);
 });
 
 server.listen(4000, () => {
