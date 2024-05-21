@@ -9,8 +9,13 @@ server.get("/", (req, res) => {
 
 server.get("/:id", (req, res) => {
   const id = req.params.id;
+  const project = dataWL.filter((info) => info.companyId == id)[0];
 
-  return res.json(dataWL.filter((info) => info.settings.companyId == id)[0]);
+  if (!project) {
+    return res.json({ error: "Objeto não encontrado" });
+  }
+
+  return res.json(project);
 });
 
 server.listen(4000, () => {
